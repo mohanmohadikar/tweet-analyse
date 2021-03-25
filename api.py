@@ -17,6 +17,8 @@ app = Flask(__name__)
 
 #db = SQLAlchemy(app)
 
+FLAG = 1
+
 arr = []
 
 class Todo():
@@ -50,7 +52,7 @@ def apimain():
 
 @app.route('/api', methods=['GET'])
 def index():
-    if(len(arr)==0):
+    if(len(arr)==0 and FLAG==1):
         create()
     resp = jsonify(arr)
     print("hihhhh")
@@ -60,6 +62,7 @@ def index():
 
 @app.route('/api/create', methods=['OPTIONS', 'POST'])
 def create():
+    FLAG=0
     print("u"*1000)
     print(request.data)
     print("u"*1000)
