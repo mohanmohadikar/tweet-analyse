@@ -4,4 +4,4 @@ pandas
 bson
 textblob
 gunicorn
-bson==0.5.8
+pymongo==3.8.0
