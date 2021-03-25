@@ -7,7 +7,7 @@ from bson.json_util import dumps
 from keras_model import load_model
 import os
 from dotenv import load_dotenv
-app = Flask(__name__) 
+
 dotenv_path = '/.env'
 load_dotenv(dotenv_path)
 
