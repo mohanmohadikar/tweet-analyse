@@ -62,12 +62,13 @@ def index():
 
 @app.route('/api/create', methods=['OPTIONS', 'POST'])
 def create():
-    FLAG=0
+    global FLAG
     print("u"*1000)
     print(request.data)
     print("u"*1000)
-    if(request.data==b''):
+    if(request.data==b'' and FLAG==1):
         search_term = "#twitter"
+        FLAG=0
     else:
         request_data = json.loads(request.data)
         search_term = request_data['content']
