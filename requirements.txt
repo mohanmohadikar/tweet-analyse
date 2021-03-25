@@ -1,5 +1,4 @@
 flask
-json
 tweepy
 pandas
 bson
