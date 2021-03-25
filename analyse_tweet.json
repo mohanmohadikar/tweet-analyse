@@ -1,0 +1,532 @@
+[
+    
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":2,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":3,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":4,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":5,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":6,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":7,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    },
+    {
+        "id":1,
+        "tweet":"dummy tweet",
+        "polarity":"0.1",
+        "label": "neutral"
+    }
+
+]
