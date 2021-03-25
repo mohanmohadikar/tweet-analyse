@@ -4,3 +4,4 @@ pandas
 bson
 textblob
 gunicorn
+bson
