@@ -1,0 +1,7 @@
+fask
+json
+tweepy
+pandas
+code
+bson.json_util
+dotenv
