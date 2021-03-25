@@ -73,11 +73,21 @@ def create():
     
     print(search_term)
 
+    CONSUMER_KEY="Nea50h6UNQ5MLH6DIiPKxTnaV"
+    CONSUMER_SECRET="VszNel95RlnGckBhV9gmKp1N1U92HdKZbTi3nmm9YOFDBcs1ki"
+    ACCESS_TOKEN="926179846253723648-PgHMZnAW2wf9ANOmEkLdGUPTmfBEVGP"
+    ACCESS_TOKEN_SECRET="SWbmV6apGGeApXr6yTwJU4LNJbNUIPt7AOZ4cjawl1o34"
 
-    consumer_key = os.environ.get('CONSUMER_KEY')
+
+    """consumer_key = os.environ.get('CONSUMER_KEY')
     consumer_secret = os.environ.get('CONSUMER_SECRET')
     access_token = os.environ.get('ACCESS_TOKEN')
-    access_token_secret = os.environ.get('ACCESS_TOKEN_SECRET')
+    access_token_secret = os.environ.get('ACCESS_TOKEN_SECRET')"""
+
+    consumer_key = CONSUMER_KEY
+    consumer_secret = CONSUMER_SECRET
+    access_token = ACCESS_TOKEN
+    access_token_secret = ACCESS_TOKEN_SECRET
 
     
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
