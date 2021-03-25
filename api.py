@@ -84,6 +84,7 @@ def create():
 
 
     api = tweepy.API(auth)
+    print("all good")
 
     tweets = api.search(search_term, count=500)
 
