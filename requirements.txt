@@ -4,4 +4,4 @@ pandas
 bson
 textblob
 gunicorn
-bson
+bson==0.5.8
