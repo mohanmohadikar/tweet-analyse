@@ -3,3 +3,4 @@ tweepy
 pandas
 bson
 textblob
+gunicorn
