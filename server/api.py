@@ -43,7 +43,7 @@ def todo_serialize():
         },
     ]
 
-@app.route('/', methods=['GET'])
+@app.route('/')
 def apimain():
     
     return "<h1>run-react-app</h1>"
