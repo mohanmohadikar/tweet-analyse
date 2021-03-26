@@ -10,15 +10,15 @@ export const AnalysisPage = () => {
     const [addTopic, setAddTopic] = useState('');
 
     const getLatestTopic = () =>{
-        
+        trackPromise(
         fetch('/api').then(response => {
             if(response.ok){
                 return response.json();
             }
-        }).then(data => setTopic(data));
+        }).then(data => setTopic(data)));
     }
 
-    getLatestTopic();
+    //getLatestTopic();
 
     
 
