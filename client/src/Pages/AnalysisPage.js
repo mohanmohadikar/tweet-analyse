@@ -16,6 +16,12 @@ export const AnalysisPage = () => {
                 return response.json();
             }
         }).then(data => setTopic(data)));
+        trackPromise(
+            fetch('/api').then(response => {
+                if(response.ok){
+                    return response.json();
+                }
+            }).then(data => setTopic(data)));
     }
 
     //getLatestTopic();
