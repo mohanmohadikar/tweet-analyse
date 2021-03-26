@@ -69,7 +69,7 @@ def create():
     if(request.data==b'' and FLAG==1):
         search_term = "#twitter"
         FLAG=0
-    if(FLAG==0):
+    else:
         request_data = json.loads(request.data)
         search_term = request_data['content']
 
