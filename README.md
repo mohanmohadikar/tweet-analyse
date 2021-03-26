@@ -1,3 +1,7 @@
+# Tweet-analyse
+
+<img src="https://raw.githubusercontent.com/mohanmohadikar/tweet-analyse/main/client/src/components/images/tweet-analysis.png" alt="tweet-analyse"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
